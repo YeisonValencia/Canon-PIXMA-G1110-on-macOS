@@ -1,0 +1,14 @@
+# Archivos temporales de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de depuración y logs locales
+*.log
+*.tmp
+*.raster
+
+# Backups y editor
+*~
+*.swp
+*.bak
