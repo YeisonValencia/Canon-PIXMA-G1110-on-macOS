@@ -4,7 +4,9 @@
 # Descripción: Automatización para la compilación, aprovisionamiento y registro
 #              en CUPS de la impresora USB Canon PIXMA G1110 en macOS 15.x (Sequoia)
 #              tanto para Apple Silicon (arm64 con Rosetta 2) como para Intel (x86_64).
-# Autor: Senior Systems & CUPS Infrastructure Engineer
+# Licencia: MIT License (Consulte LICENSE para términos completos)
+# Descargo: Este software se suministra "TAL CUAL", sin garantías de ningún tipo.
+#           No afiliado ni respaldado por Canon Inc. ni Apple Inc.
 # ==============================================================================
 
 set -euo pipefail

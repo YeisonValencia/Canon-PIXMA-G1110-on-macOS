@@ -101,3 +101,21 @@ lp -d Canon_PIXMA_G1110 /usr/share/doc/cups/testprint
 # Consultar estado de los trabajos en cola:
 lpstat -o -p Canon_PIXMA_G1110
 ```
+
+---
+
+## 5. Descargo de Responsabilidad (Disclaimer)
+
+> [!IMPORTANT]
+> **Aviso Legal y Descargo de Responsabilidad:**
+> 1. **Independencia y Marcas Registradas:** Este proyecto es una iniciativa comunitaria de código abierto, desarrollada con fines de compatibilidad, interoperabilidad y estudio técnico. No está afiliado, respaldado, patrocinado ni asociado de ninguna manera con **Canon Inc.** ni con **Apple Inc.** Todas las marcas comerciales, nombres de modelos y logotipos (`Canon`, `PIXMA`, `macOS`, `Apple Silicon`, `CUPS`) son propiedad exclusiva de sus respectivos titulares.
+> 2. **Suministro "TAL CUAL" (AS IS):** El software, scripts y guías se distribuyen tal como están, sin garantías de ningún tipo, explícitas o implícitas, incluyendo, entre otras, garantías de comerciabilidad, adecuación para un propósito particular o ausencia de errores.
+> 3. **Responsabilidad del Usuario:** El autor no se hace responsable por ningún daño directo, indirecto, incidental o consecuente derivado del uso o la imposibilidad de uso de este software, incluyendo (pero no limitado a) atascos de papel, consumo imprevisto de consumibles (tinta), desconfiguración del subsistema de impresión o problemas de hardware. El usuario asume toda la responsabilidad al ejecutar scripts con privilegios de superusuario (`sudo`).
+> 4. **Software de Terceros:** Los controladores del motor de rasterización pertenecen al proyecto **Gutenprint** y se rigen por su propia licencia (GNU General Public License v2 o posterior).
+
+---
+
+## 6. Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+
